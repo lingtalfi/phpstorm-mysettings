@@ -8,3 +8,10 @@ My phpstorm settings (just in case).
 
 
 
+Howto
+----------
+
+In phpstorm top menu: File > Import|Export Settings.
+
+
+
